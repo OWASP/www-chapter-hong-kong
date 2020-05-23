@@ -11,9 +11,28 @@ auto-migrated: 1
 
 ---
 
-This is the Hong Kong Chapter. We are under revamping the site and please stay tuned.
+Hong Kong
 
-My contact is anthonylai@owasp.org and you can search us from Facebook: OWASP HK Chapter
+The Hong Kong chapter was formed in December 2004. The objectives to establish OWASP Hong Kong Chapter are mainly because: -There are many web applications established in past 10 years. However, how many developers know that their developed application are secure. Meanwhile, there are many transactional-based systems, we should not ignore that the web application is another channel for hackers to compromise one's confidential information and interrupt any critical business operations.
+
+- Raise the security awareness of web application development among the professionals.
+
+- Encourage professionals to reference standard like ISO7799 for their web application security and post-deployment review as well as audit.
+
+- Accelerate to Share, learn, discuss and review best practices of the experienced web application development security professionals even across various user and security groups including VXRL in Hong Kong.
+
+Coding Practice
+
+- Mainstream web technologies (i.e. .NET, J2EE and PHP on Linux) security assessment
+
+- Web application platform (i.e. Apache, IIS, Linux, Database) security assessment and review.
+
+- Recent Web application security concerns.
+
+- Regularly convey latest projects and presentations from OWASP.
+
+OWASP HK Chapter Core
+Facebook: https://www.facebook.com/OwaspHongKongChapter
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
