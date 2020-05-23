@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Anthony L@i](mailto:anthonylai@owasp.org)
+* [Anthony LAI](mailto:anthonylai@owasp.org)
