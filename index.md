@@ -11,6 +11,9 @@ auto-migrated: 1
 
 ---
 
+This is the Hong Kong Chapter. We are under revamping the site and please stay tuned.
+
+My contact is anthonylai@owasp.org and you can search us from Facebook: OWASP HK Chapter
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
