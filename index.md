@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Hong Kong
-tags: example-tag
+tags: info
 level: 0
 
 region: Asia/Pacific
