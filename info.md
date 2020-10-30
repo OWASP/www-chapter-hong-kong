@@ -1,5 +1,3 @@
-<!--### Chapter Information
-* Chapter Region
 
 ### Hong Kong Information
 * [Become a Member](https://www.owasp.org/index.php/Membership)
