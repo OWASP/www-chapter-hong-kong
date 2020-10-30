@@ -11,4 +11,4 @@
 
 ### Code Repository
 * [Page Repo](https://github.com/OWASP/www-chapter-hong-kong)
-* [Slides Repo](https://github.com/OWASP/www-chapter-hong-kong/slides)
+* [Slides Repo](https://github.com/OWASP/www-chapter-hong-kong/tree/master/slides)
