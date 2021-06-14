@@ -5,6 +5,7 @@ title: OWASP Hong Kong
 tags: info
 level: 0
 region: Asia
+meetup-group: owasp-hong-kong-meetup-group
 
 ---
 
@@ -31,6 +32,14 @@ Coding Practice
 
 ## Welcome
 Welcome to all of you to visit our Hong Kong Chapter website.
+
+### Upcoming Meetings
+
+We schedule our meetings on the [OWASP Hong Kong Meetup Group](https://www.meetup.com/owasp-hong-kong-meetup-group/)
+
+{% include chapter_events.html group=page.meetup-group %}
+
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
