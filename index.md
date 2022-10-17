@@ -35,9 +35,8 @@ Welcome to all of you to visit our Hong Kong Chapter website.
 
 ### Upcoming Meetings
 
-We schedule our meetings on the [OWASP Hong Kong Meetup Group](https://www.meetup.com/owasp-hong-kong-meetup-group/)
-
-{% include chapter_events.html group=page.meetup-group %}
+We schedule our meetings on the [OWASP Hong Kong Meetup Group](https://www.meetup.com/owasp-hong-kong-meetup-group/)<br />
+Note: The meetup group is based in HK, even the location information is shown otherwise, we will fix that soon.
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
@@ -49,9 +48,15 @@ Chapters are led by local leaders in accordance with the [Chapter Policy](https:
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
 ## Local News
-- We wil hold our OWASP TechDay 2021 in January, we will announce more details here. Please visit our facebook page.
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
+* We will be running our in-person OWASP TechDay (HK) 2022 on 8 Dec. Details will be published soon. Please visit our facebook page.
+* Agenda:
+  * Real Case Study of Ransomware Incident Response (by VXRL)
+  * Technical Aspects of Supply Chain Attack by Examples (by OWASP HK)
+  * Winning Bug Bounty by Exploiting Smart Contract and Blockchain (by VXCON Team)
+  * The need for Threat Modeling and Cloud SOC (by VXRL x AWS)
+* Time: 18:00 - 20:30
+* Meeting Location: Causeway Bay
+* Everyone is welcome to join us at our chapter meetings.
 
 ```
 
