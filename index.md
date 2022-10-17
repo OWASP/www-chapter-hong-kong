@@ -51,7 +51,7 @@ Chapters are led by local leaders in accordance with the [Chapter Policy](https:
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
 ## Local News
-* We will be running our in-person OWASP TechDay (HK) 2022 on 8 Dec. Details will be published soon. Please visit our facebook page.
+* We will be running our in-person OWASP TechDay (HK) 2022 on 8 Dec. More details will be published soon. Please visit our facebook page.
 * Agenda:
   * Real Case Study of Ransomware Incident Response (by VXRL)
   * Technical Aspects of Supply Chain Attack by Examples (by OWASP HK)
@@ -60,6 +60,3 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 * Time: 18:00 - 20:30
 * Meeting Location: 20/F, Tower 535 Jaffe Road, Causeway Bay, HK
 * Everyone is welcome to join us at our chapter meetings.
-
-```
-
