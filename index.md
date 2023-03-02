@@ -5,7 +5,7 @@ title: OWASP Hong Kong
 tags: info
 level: 0
 region: Asia
-meetup-group: owasp-hong-kong-meetup-group
+meetup-group: owasp-hong-kong-chapter
 
 ---
 
