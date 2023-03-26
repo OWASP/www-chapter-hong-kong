@@ -35,11 +35,9 @@ Welcome to all of you to visit our Hong Kong Chapter website.
 
 ### Upcoming Meetings
 
-We schedule our meetings on the [OWASP Hong Kong Meetup Group](https://www.meetup.com/owasp-hong-kong-meetup-group/)
+We schedule our meetings on the [OWASP Hong Kong Meetup Group](https://www.meetup.com/owasp-hong-kong-chapter/)
 
 {% include chapter_events.html group=page.meetup-group %} -> Please check the meetup group directly or the lcoal news section at the bottom of the page.
-
-Note: The meetup group is based in HK, even the location information is shown otherwise, we will fix that soon.
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
