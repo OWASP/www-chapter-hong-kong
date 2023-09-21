@@ -54,6 +54,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
   * CI/CD as code with security scanning hooks (Please see pre-requisites in MeetUp event)
 * Time: 16:00 - 18:00
 * Meeting Location: WeWork, 20/F, Cityplaza Phase 3, Quarry Bay, HK
+* Everyone is welcome to join us at our chapter meetings.
 
 ## Past Activities in 2023
 * We will be running a lab session on 4 Apr 2023 for peers to try out smart contract hacking and exchange ideas.
@@ -61,5 +62,4 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
   * Smart Contract Hacking self practice and idea exchange
 * Time: 16:00 - 18:00
 * Meeting Location: WeWork, 20/F, Cityplaza Phase 3, Quarry Bay, HK
----
 * Everyone is welcome to join us at our chapter meetings.
