@@ -50,14 +50,14 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## Local News
 ### Lab event
-* We will be running a lab session on 16 Oct 2023 for peers to practise LLM Prompt Injection.
+We will be running a lab session on 16 Oct 2023 for peers to practise LLM Prompt Injection.
 * Agenda:
   * Prompt Injection practice (Please see pre-requisites in MeetUp event)
 * Time: 18:00 - 19:00
 * Meeting Location: WeWork, 20/F, Cityplaza Phase 3, Quarry Bay, HK
 * Everyone is welcome to join us at our chapter meetings.
 ### Lab event
-* We will be running a lab session on 13 Oct 2023 for peers to practise security in CI/CD pipeline as code.
+We will be running a lab session on 13 Oct 2023 for peers to practise security in CI/CD pipeline as code.
 * Agenda:
   * CI/CD as code with security scanning hooks (Please see pre-requisites in MeetUp event)
 * Time: 16:00 - 18:00
@@ -65,7 +65,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 * Everyone is welcome to join us at our chapter meetings.
 
 ### Past Activities in 2023
-* We will be running a lab session on 4 Apr 2023 for peers to try out smart contract hacking and exchange ideas.
+We will be running a lab session on 4 Apr 2023 for peers to try out smart contract hacking and exchange ideas.
 * Agenda:
   * Smart Contract Hacking self practice and idea exchange
 * Time: 16:00 - 18:00
