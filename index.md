@@ -49,6 +49,7 @@ Chapters are led by local leaders in accordance with the [Chapter Policy](https:
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
 ## Local News
+Coming up: Security in CI/CD pipeline
 ### Lab event
 We will be running a lab session on 16 Oct 2023 for peers to practise LLM Prompt Injection.
 * Agenda:
@@ -56,6 +57,7 @@ We will be running a lab session on 16 Oct 2023 for peers to practise LLM Prompt
 * Time: 18:00 - 19:00
 * Meeting Location: WeWork, 20/F, Cityplaza Phase 3, Quarry Bay, HK
 * Everyone is welcome to join us at our chapter meetings.
+
 ### Lab event
 We will be running a lab session on 13 Oct 2023 for peers to practise security in CI/CD pipeline as code.
 * Agenda:
