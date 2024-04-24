@@ -55,13 +55,15 @@ Coming Up 2024: Intel x86/x64 buffer overflow exploit & ARM (MacOS) shellcode de
 * Agenda:
   * A crash course in Intel x86/x64 instructure set and assembly
   * Walk through of buffer overflow exploit development
+    * featuring:
+      * writing assembly shellcode to download webshell
     * including:
       * Windows x86 SEH and Pop-Pop-Ret
       * Linux x86 ROP
   * Hands-on:
     * Linux x64 Return-2-Register
     * Linux x64 ROP (bypassing DEP and ASLR)
-  * ARM (MacOS) shellcode development with null byte avoidance
+  * ARM (MacOS) assembly shellcode development with null byte avoidance
 * Date/Time and Venue to be announced
 
 ### Past Activities in 2023
