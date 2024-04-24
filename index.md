@@ -50,8 +50,21 @@ Chapters are led by local leaders in accordance with the [Chapter Policy](https:
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
 ## Local News
-Coming up: TBD
+Coming Up 2024: x86/x64 buffer overflow exploit & ARM (MacOS) shellcode development (by Boris and Janet)
 ### Lab event
+* Agenda:
+  * A crash course in x86/x64 instructure set and assembly
+  * Walk through of buffer overflow exploit development
+    * including:
+      * Windows x86 SEH and Pop-Pop-Ret
+      * Linux x86 ROP
+  * Hands-on:
+    * Linux x64 Return-2-Register
+    * Linux x64 ROP (bypassing DEP and ASLR)
+  * ARM (MacOS) shellcode development with null byte avoidance
+* Date/Time and Venue to be announced
+
+### Past Activities in 2023
 We will be running a lab session on 16 Oct 2023 for peers to practise LLM Prompt Injection.
 * Agenda:
   * Prompt Injection practice (Please see pre-requisites in MeetUp event)
@@ -59,7 +72,6 @@ We will be running a lab session on 16 Oct 2023 for peers to practise LLM Prompt
 * Meeting Location: WeWork, 20/F, Cityplaza Phase 3, Quarry Bay, HK
 * Everyone is welcome to join us at our chapter meetings.
 
-### Lab event
 We will be running a lab session on 13 Oct 2023 for peers to practise security in CI/CD pipeline as code.
 * Agenda:
   * CI/CD as code with security scanning hooks (Please see pre-requisites in MeetUp event)
@@ -67,7 +79,6 @@ We will be running a lab session on 13 Oct 2023 for peers to practise security i
 * Meeting Location: WeWork, 20/F, Cityplaza Phase 3, Quarry Bay, HK
 * Everyone is welcome to join us at our chapter meetings.
 
-### Past Activities in 2023
 We will be running a lab session on 4 Apr 2023 for peers to try out smart contract hacking and exchange ideas.
 * Agenda:
   * Smart Contract Hacking self practice and idea exchange
