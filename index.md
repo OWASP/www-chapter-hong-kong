@@ -50,10 +50,10 @@ Chapters are led by local leaders in accordance with the [Chapter Policy](https:
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
 ## Local News
-Coming Up 2024: x86/x64 buffer overflow exploit & ARM (MacOS) shellcode development (by Boris and Janet)
+Coming Up 2024: Intel x86/x64 buffer overflow exploit & ARM (MacOS) shellcode development (by Boris and Janet)
 ### Lab event
 * Agenda:
-  * A crash course in x86/x64 instructure set and assembly
+  * A crash course in Intel x86/x64 instructure set and assembly
   * Walk through of buffer overflow exploit development
     * including:
       * Windows x86 SEH and Pop-Pop-Ret
