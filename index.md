@@ -50,21 +50,13 @@ Chapters are led by local leaders in accordance with the [Chapter Policy](https:
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
 ## Local News
-Coming Up 2024: Intel x86/x64 buffer overflow exploit & ARM (MacOS) shellcode development - by Boris and Janet
+We will be running a lab session on 28 Mar 2025 for peers to practise reverse engineering and binary patching.
 ### Lab event
 * Agenda:
-  * A crash course in Intel x86/x64 instructure set and assembly
-  * Walk through of buffer overflow exploit development
-    * featuring:
-      * writing assembly shellcode to download webshell
-    * including:
-      * Windows x86 SEH and Pop-Pop-Ret
-      * Linux x86 ROP
-  * Hands-on:
-    * Linux x64 Return-2-Register
-    * Linux x64 ROP (bypassing DEP and ASLR)
-  * ARM (MacOS) assembly shellcode development with null byte avoidance
-* Date/Time and Venue to be announced
+  * A crash course in reverse engineering and binary patching for x86/x64 Windows/Linux (Please see pre-requisites in MeetUp event)
+* Time: 14:00 - 18:00
+* Meeting Location: WeWork, 20/F, Cityplaza Phase 3, Quarry Bay, HK
+* Everyone is welcome to join us at our chapter meetings.
 
 ### Past Activities in 2023
 We will be running a lab session on 16 Oct 2023 for peers to practise LLM Prompt Injection.
