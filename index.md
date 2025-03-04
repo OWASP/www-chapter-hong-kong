@@ -55,7 +55,7 @@ We will be running a lab session on 28 Mar 2025 for peers to practise reverse en
 * Agenda:
   * A crash course in reverse engineering and binary patching for x86/x64 Windows/Linux (Please see pre-requisites in MeetUp event)
 * Time: 14:00 - 18:00
-* Meeting Location: WeWork, 20/F, Cityplaza Phase 3, Quarry Bay, HK
+* Meeting Location: 20/F, Tower 535, 535 Jaffe Road, Causeway Bay, HK
 * Everyone is welcome to join us at our chapter meetings.
 
 ### Past Activities in 2023
