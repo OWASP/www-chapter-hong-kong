@@ -50,8 +50,16 @@ Chapters are led by local leaders in accordance with the [Chapter Policy](https:
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
 ## Local News
-We will be running a lab session on 28 Mar 2025 for peers to practise reverse engineering and binary patching.
+We will be running a lab session on 23 May 2025 for peers to practise executable file parsing and binary patching using a dumb hex editor and debugger.
 ### Lab event
+* Agenda:
+  * Backdooring Windows PE and Linux ELF practice lab (Please see pre-requisites in MeetUp event)
+* Time: 18:00 - 20:30
+* Meeting Location: 20/F, Tower 535, 535 Jaffe Road, Causeway Bay, HK
+* Everyone is welcome to join us at our chapter meetings.
+
+### Past Activities in 2025
+We will be running a lab session on 28 Mar 2025 for peers to practise reverse engineering and binary patching.
 * Agenda:
   * A crash course in reverse engineering and binary patching for x86/x64 Windows PE/Linux ELF (Please see pre-requisites in MeetUp event)
 * Time: 14:00 - 18:00
