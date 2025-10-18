@@ -1,0 +1,30 @@
+leaders:
+  - name: Anthony LAI
+    email: anthony.lai@owasp.org
+  - name: Alan HO
+    email: alan.ho@owasp.org
+    github: alanh0vx
+  - name: Boris SO
+    email: boris.so@owasp.org
+    github: soboris
+  - name: Sharon Lam
+    email: sharon.frankln@owasp.org
+    github: sharonfrankln
+location:
+  country: China
+  country_code: CN
+  region: China
+  city: Hong Kong
+  latitude: 22.350627
+  longitude: 114.1849161
+meetup_group: owasp-hong-kong-chapter
+name: OWASP Hong Kong
+repositories:
+  - name: www-chapter-hong-kong
+    url: https://github.com/OWASP/www-chapter-hong-kong
+    description: OWASP Foundation Web Repository
+tags:
+  - info
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-hong-kong
